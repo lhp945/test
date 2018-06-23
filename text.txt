@@ -1,2 +1,12 @@
 写字
 摸你一下
+
+public static doMath() {
+	return null;
+}
+
+
+
+public static void main() {
+
+}
