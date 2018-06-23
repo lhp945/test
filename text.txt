@@ -5,7 +5,7 @@ public static doMath() {
 	return null;
 }
 
-又写了个函数。
+Zaimoniyixia
 
 public static void main() {
 
